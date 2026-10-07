@@ -136,8 +136,7 @@ startupco/
 | :--- | :--- | :--- | :--- |
 | **Framework** | [Next.js](https://nextjs.org/) | `14.2.35` | Server-Side Rendering, App Router, Static Optimization |
 | **Core Library** | [React](https://react.dev/) | `18.x` | Declarative component UI model |
-| **3D Rendering** | [Three.js](https://threejs.org/) | `0.186.x` | WebGL canvas & 3D geometry engine |
-| **Fiber & Drei** | [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/) | `9.7.x` | React wrapper for Three.js |
+| **CAD Visuals** | Vector SVG / CSS3 | Modern | Lightweight, high-precision industrial robotics schematics |
 | **Motion** | [Framer Motion](https://www.framer.com/motion/) | `13.2.x` | Hardware-accelerated viewport transitions |
 | **Icons** | [Lucide React](https://lucide.dev/) | `1.45.x` | Clean, lightweight SVG technical icons |
 | **Feedback** | [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti) | `1.9.x` | Success micro-celebration on demo booking |
